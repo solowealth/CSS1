@@ -1,0 +1,32 @@
+*{
+    background-color: yellow;
+}
+h1{
+    color: brown
+}
+
+h3{
+    color: blue;
+    text-shadow: brown;
+    font-family: sans-serif;
+}
+#anime{
+    color:blue;
+}
+
+#games{
+    color: rgb(225, 13, 20);
+}
+
+#submit{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#tekken{
+    text-transform: uppercase;
+    font-size: 15px;
+    color: blue;
+}
